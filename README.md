@@ -112,7 +112,8 @@
 ## 📫 ติดต่อ
 
 - 📧 Email: supached.tata@gmail.com  
-- 📧 Line: supached111
+- 💬 Line: suphachet1111
+- 🌐 Portfolio: [https://yourname.dev](https://yourname.dev) <!-- ใส่จริงได้เลยหากมี -->
 
 ---
 
