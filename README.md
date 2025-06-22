@@ -46,7 +46,10 @@
 - 🌐 **Demo:**  
   [https://bitit0367.cpkkuhost.com](https://bitit0367.cpkkuhost.com)
 
-  🌐 <a href="https://ecom-shop-user.vercel.app/" target="_blank">คลิกเพื่อดู Demo</a>
+=### Demo  
+🌐 <a href="https://ecom-shop-user.vercel.app/" target="_blank">🔗 เปิดดู Demo ในแท็บใหม่</a>
+
+
 
 
 ---
