@@ -61,8 +61,7 @@
     ▸ ชุดเช่าที่ได้รับความนิยมสูงสุด  
     ▸ งานตัดชุดที่มีจำนวนรายการมากที่สุด
 
-- 🌐 **เยี่ยมชมตอนนี้!:**  
-  [https://bitit0367.cpkkuhost.com](https://bitit0367.cpkkuhost.com)
+- 🌐 **เยี่ยมชมเว็บไซต์ตอนนี้!:** [https://bitit0367.cpkkuhost.com](https://bitit0367.cpkkuhost.com)
 
 ---
 
@@ -87,8 +86,7 @@
 - ติดตามสถานะคำขอแต่ละโครงการผ่านระบบ
 - ส่งออกข้อมูลโครงการเป็นไฟล์ PDF 
 
-- 🌐 **เยี่ยมชมตอนนี้:**  
-  [https://khonkaenraot.com/](https://khonkaenraot.com/)
+- 🌐 **เยี่ยมชมเว็บไซต์ตอนนี้:** [https://khonkaenraot.com/](https://khonkaenraot.com/)
 
 ---
 
@@ -107,7 +105,11 @@
   - Dashboard ผู้ดูแลระบบพร้อมกราฟ  
   - ระบบ Login/Register พร้อม JWT Auth
   - 
-- 🌐 **เยี่ยมชมตอนนี้!:**  [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
+- 🌐 **เยี่ยมชมเว็บไซต์ตอนนี้:** [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
+- 🖥️**Github Fontend Repository:** [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
+- 🛠️**Github Backend Repository:** [https://github.com/Tatakung/ecom-shop-user/tree/main](https://github.com/Tatakung/ecom-shop-user/tree/main)
+
+
 ---
 
 ## 🛠️ ทักษะที่ใช้
