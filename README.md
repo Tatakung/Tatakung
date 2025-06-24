@@ -107,8 +107,9 @@
   - Dashboard ผู้ดูแลระบบพร้อมกราฟ  
   - ระบบ Login/Register พร้อม JWT Auth
   - 
-- 🌐 **เยี่ยมชมตอนนี้!:**  
-  [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
+- 🌐 **เยี่ยมชมตอนนี้!:**  [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
+- 🌐 **เยี่ยมชมตอนนี้!:**  [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
+- 🌐 **เยี่ยมชมตอนนี้!:**  [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
 
 ---
 
