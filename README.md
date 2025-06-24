@@ -105,8 +105,8 @@
   - ระบบ Login/Register พร้อม JWT Auth
   - 
 - 🌐 **เยี่ยมชมเว็บไซต์ตอนนี้:** [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
-- 🌐 **Github Fontend-:** [https://github.com/Tatakung/ecom-shop-user/tree/main](https://github.com/Tatakung/ecom-shop-user/tree/main)
-- 🌐 **Github Backend-:** [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
+- 🌐 **Github Fontend:** [https://github.com/Tatakung/ecom-shop-user/tree/main](https://github.com/Tatakung/ecom-shop-user/tree/main)
+- 🌐 **Github Backend:** [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
 
 ---
 
