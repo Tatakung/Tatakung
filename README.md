@@ -98,7 +98,8 @@
   - Backend: Node.js + Express  
   - Database: MySQL (Prisma ORM)  
   - Hosting: Vercel (Frontend + Backend) + Supabase (MySQL) +Cloudinary(รูปภาพ)
-
+- **กลุ่มเป้าหมายที่ใช้งาน:**  
+  เจ้าของร้าน / ลูกค้า
 - 🧩 **ฟีเจอร์หลัก:**  
   - แสดงสินค้า / เพิ่มสินค้า / ตัวกรองสินค้า / ซื้อชุด / ระบบตะกร้าสินค้า  
   - แบบฟอร์มแจ้งชำระเงิน
@@ -106,8 +107,8 @@
   - ระบบ Login/Register พร้อม JWT Auth
   - 
 - 🌐 **เยี่ยมชมเว็บไซต์ตอนนี้:** [https://ecom-shop-user.vercel.app/](https://ecom-shop-user.vercel.app/)
-- 🌐 **fontend:** [https://github.com/Tatakung/ecom-shop-user/tree/main](https://github.com/Tatakung/ecom-shop-user/tree/main)
-- 🌐 **backend:** [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
+- 🌐 **github fontend:** [https://github.com/Tatakung/ecom-shop-user/tree/main](https://github.com/Tatakung/ecom-shop-user/tree/main)
+- 🌐 **github backend:** [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
 
 ---
 
