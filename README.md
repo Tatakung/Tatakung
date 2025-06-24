@@ -20,9 +20,6 @@
   <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,php,express,mysql,js,html,css,bootstrap,git,github,vercel,postman,figma,canva" />
 </p>
 
-
-
-
 ## 📂 ผลงานของฉันเอง
 
 ### 1. ระบบจัดการร้านชุด (โปรเจกต์จบ ปี 4)
