@@ -119,14 +119,14 @@
 - 📄 **รายละเอียด:**  
   สามารถอ่านและเขียนได้ตามต้องการ
 - 🧰 **เทคโนโลยีที่ใช้:**  
-  - Backend: Django
-  - Database: MySQL  
+  - Backend: Django 
+  - Database: MySQL RDBMS
   - Hosting: pythonanywhere
 - 🧩 **ฟีเจอร์หลัก:**  
   - เพิ่ม/ลบ/อ่าน/เขียน/คอมเม้นบล็อค
   - 
 - 🌐 **เยี่ยมชมเว็บไซต์ตอนนี้:** [https://tatakung.pythonanywhere.com/](https://tatakung.pythonanywhere.com/)
-- 🌐 **Github :** [https://github.com/Tatakung/ecom-shop-api/tree/main](https://github.com/Tatakung/ecom-shop-api/tree/main)
+- 🌐 **Github :** [https://github.com/Tatakung/blog-storly-log](https://github.com/Tatakung/blog-storly-log)
 
 ## 🛠️ ทักษะที่ใช้
 
